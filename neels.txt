@@ -1,0 +1,1 @@
+The CE amplifier has three capacitors, to understand how each capacitor affects the frequency response, we will investigate each one individually. The critical frequency can be calculated using the following equation: fc=12πRC f c = 1 2 π R C .
